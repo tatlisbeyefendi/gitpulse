@@ -199,7 +199,7 @@ def main(argv: Sequence[str] | None = None) -> int:
         key=lambda repo: repo.age_seconds(result.now) or 0.0,
         default=None,
     )
-    if oldest and len(shown) > 1:
+    if oldest and len(shown) > 1 and (oldest.age_seconds(result.now) or 0.0) >= 86400:
         age = oldest.age_seconds(result.now) or 0.0
         lines.append(
             "  "
