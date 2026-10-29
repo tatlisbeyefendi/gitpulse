@@ -53,7 +53,7 @@ $ pip install gitpulse       # ya da mevcut ortama
 Depodan:
 
 ```console
-$ git clone https://github.com/OWNER/gitpulse.git
+$ git clone https://github.com/tatlisbeyefendi/gitpulse.git
 $ cd gitpulse
 $ pipx install .
 ```

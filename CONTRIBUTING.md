@@ -12,7 +12,7 @@ Thanks for helping out. This project has three rules it will not bend:
 ## Getting set up
 
 ```console
-$ git clone https://github.com/OWNER/gitpulse.git
+$ git clone https://github.com/tatlisbeyefendi/gitpulse.git
 $ cd gitpulse
 $ python3 -m venv .venv && source .venv/bin/activate
 $ make install

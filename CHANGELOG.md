@@ -45,5 +45,5 @@ The first release: one table for every repository you own.
 - `gitpulse` is strictly read-only and makes no network requests; ahead/behind
   reflect your last `git fetch`.
 
-[Unreleased]: https://github.com/OWNER/gitpulse/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/OWNER/gitpulse/releases/tag/v0.1.0
+[Unreleased]: https://github.com/tatlisbeyefendi/gitpulse/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/tatlisbeyefendi/gitpulse/releases/tag/v0.1.0
