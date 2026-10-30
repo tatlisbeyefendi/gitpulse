@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: How it works
+    url: https://github.com/OWNER/gitpulse/blob/main/README.md#how-it-works
+    about: gitpulse is read-only and never touches the network — here is why.
